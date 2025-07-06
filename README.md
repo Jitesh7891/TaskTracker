@@ -16,6 +16,7 @@ A responsive task tracking app built with React. It allows users to log in with 
 1. Run following commands
 ```bash
 git clone https://github.com/Jitesh7891/TaskTracker.git
+cd TaskTracker
 npm install
 npm run dev
 ```
