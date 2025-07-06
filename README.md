@@ -28,7 +28,7 @@ npm run dev
 - localStorage  
 
 ## Live Demo  
-[https://your-live-demo-url.vercel.app](https://github.com/Jitesh7891/TaskTracker/deployments/github-pages)
+[https://github.com/Jitesh7891/TaskTracker/deployments/github-pages](https://github.com/Jitesh7891/TaskTracker/deployments/github-pages)
 
 ## Screenshots  
 ![Task Dashboard](https://github.com/Jitesh7891/TaskTracker/blob/main/screenshots/login.PNG)
