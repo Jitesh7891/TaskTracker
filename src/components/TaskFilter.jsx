@@ -49,7 +49,7 @@ export default function TaskFilter({
           } transition-colors duration-200`}>
             <span className="font-medium">{opt.name}</span>
             <span className={`text-sm px-2 py-1 rounded-full ${
-              filter === opt.id ? 'bg-white bg-opacity-20' : darkMode ? 'bg-gray-600 text-gray-300' : 'bg-gray-200 text-gray-600'
+              filter === opt.id ? 'bg-white text-black bg-opacity-20' : darkMode ? 'bg-gray-600 text-gray-300' : 'bg-gray-200 text-gray-600'
             }`}>{opt.count}</span>
           </button>
         ))}

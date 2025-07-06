@@ -13,10 +13,13 @@ A responsive task tracking app built with React. It allows users to log in with 
 - Responsive design for both mobile and desktop
 
 ## Setup Instructions  
-1. Clone the repository  
-2. Run `npm install`  
-3. Run `npm start`  
-4. Open [http://localhost:3000](http://localhost:3000)
+1. Run following commands
+```bash
+git clone https://github.com/Jitesh7891/TaskTracker.git
+npm install
+npm run dev
+```
+2. Open [http://localhost:5173](http://localhost:5173)
 
 ## Technologies Used  
 - React.js  
@@ -27,7 +30,7 @@ A responsive task tracking app built with React. It allows users to log in with 
 [https://your-live-demo-url.vercel.app](https://your-live-demo-url.vercel.app)
 
 ## Screenshots  
-![Task Dashboard](./screenshots/Login.png)  
+![Task Dashboard](./screenshots/login.png)  
 ![Task Dashboard](./screenshots/Tasks.png)  
 ![Task Dashboard](./screenshots/TaskForm.png)  
 
