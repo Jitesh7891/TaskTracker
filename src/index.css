@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+
+/* src/index.css or App.css */
+.scroll-thin::-webkit-scrollbar {
+  width: 1px;
+  height: 1px;
+}
+
+.scroll-thin::-webkit-scrollbar-thumb {
+  background-color: rgba(54, 255, 252, 0.5);
+  border-radius: 2px;
+}
+
+.scroll-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scroll-thin {
+  scrollbar-width: thin; /* Firefox */
+}
+.scroll-hide {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scroll-hide::-webkit-scrollbar {
+  display: none;
+}
