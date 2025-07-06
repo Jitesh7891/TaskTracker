@@ -24,8 +24,7 @@ npm run dev
 
 ## Technologies Used  
 - React.js  
-- Tailwind CSS (or your preferred styling method)  
-- localStorage  
+- Tailwind CSS  
 
 ## Live Demo  
 [https://github.com/Jitesh7891/TaskTracker/deployments/github-pages](https://github.com/Jitesh7891/TaskTracker/deployments/github-pages)
