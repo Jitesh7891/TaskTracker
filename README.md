@@ -30,7 +30,7 @@ npm run dev
 [https://jitesh7891.github.io/TaskTracker/](https://jitesh7891.github.io/TaskTracker/)
 
 ## Screenshots  
-![Task Dashboard](https://github.com/Jitesh7891/TaskTracker/blob/main/screenshots/Login.PNG)
+![Task Dashboard](https://github.com/Jitesh7891/TaskTracker/blob/main/screenshots/login.PNG)
 ![Task Dashboard](https://github.com/Jitesh7891/TaskTracker/blob/main/screenshots/Tasks.PNG)
 ![Task Dashboard](https://github.com/Jitesh7891/TaskTracker/blob/main/screenshots/TaskForm.PNG)
 
